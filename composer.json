@@ -1,5 +1,5 @@
 {
-    "name": "friendsofdoctrine/dbal-clickhouse",
+    "name": "vkfd/dbal-clickhouse-vk",
     "type": "library",
     "description": "Doctrine DBAL driver for ClickHouse",
     "keywords": [
